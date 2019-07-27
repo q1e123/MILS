@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/q1e123/Workshop/MILS/builtin.c
+string.h
+-
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+builtin.h
+/home/q1e123/Workshop/MILS/builtin.h
+errors.h
+/home/q1e123/Workshop/MILS/errors.h
+
+/home/q1e123/Workshop/MILS/builtin.h
+
+/home/q1e123/Workshop/MILS/errors.h
+

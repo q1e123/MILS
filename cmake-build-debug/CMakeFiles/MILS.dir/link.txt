@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/MILS.dir/main.c.o CMakeFiles/MILS.dir/utils.c.o CMakeFiles/MILS.dir/errors.c.o CMakeFiles/MILS.dir/builtin.c.o  -o MILS 
